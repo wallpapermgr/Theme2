@@ -5,7 +5,7 @@ Theme2 wallpapers
 Automatic install/update:
   
 ```shell
-bash -c "$(curl -LSs https://github.com/wallpapermgr/Theme2/raw/master/install.sh)"
+bash -c "$(curl -LSs https://github.com/wallpapermgr/Theme2/raw/main/install.sh)"
 ```
   
 Manual install:
